@@ -12,4 +12,4 @@
 🤍 Join me on Instagram for more content [EthanDeL](https://www.instagram.com/ethan_del_code/)
 
 
-![preview](https://github.com/user-attachments/assets/61512720-117d-4ae3-ba70-02ec681907b6)
+![preview](https://github.com/user-attachments/assets/5ed25837-2a33-407b-a1a1-2da70e2d545c)
