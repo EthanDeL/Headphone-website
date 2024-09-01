@@ -1,0 +1,52 @@
+/* GOOGLE FONT */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+/* VARIABLES */
+:root{
+    /* COLORS */
+    --white-color: hsl(0, 0%, 100%); 
+    --white-opacity-color: hsla(0, 0%, 100%, 0.29);
+    --black-color: hsl(0, 0%, 0%); 
+    --black-opacity-color: hsla(0, 3%, 12%, 0.29);
+    --light-gray-color: hsl(0, 4%, 80%); 
+    --gray-opacity-color: hsl(0, 3%, 35%);
+    --gray-color: hsl(0, 3%, 57%); 
+    --green-color: hsl(129, 66%, 47%); 
+
+    /* BACKGROUND COLORS */
+    --background-color: hsl(0, 0%, 17%); 
+
+    /* FONT-WEIGHT */
+    --big-font-weight: 800; 
+    --medium-font-weight: 600; 
+    --middle-font-weight: 500; 
+    --small-font-weigt: 400; 
+}
+
+/* BASE */
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+/* BODY  */
+body {
+    height: auto;
+    color: var(--white-color);
+    background-color: var(--background-color);
+    font-family: "Inter", sans-serif;
+    overflow-x: hidden;
+}
+
+/* SCROLL BAR */
+
+
+/* NAVBAR */
+
+/* LANDING PAGE */
+
+/* TOOLTIP */
+
+/* OTHER PRODUCTS */
